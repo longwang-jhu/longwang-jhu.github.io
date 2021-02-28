@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=xk00nf8AAAAJ">my Google Scholar profile</a>.</u>
 
 Stochastic Optimization
-======
+-----
 <ul>
     <li>
         Complex-step Gradient Estimation [Ongoing]<br>
@@ -33,7 +33,7 @@ Stochastic Optimization
         <i>Proceedings of the Annual Conference on Information Sciences and Systems</i>, Baltimore, MD, 24-26 March 2021, in press.
     </li>
     <li>
-        Efficient Implementation of Second-Order Simultaneous Perturbation Stochastic Approximation [<a href="https://ieeexplore.ieee.org/document/8835094">NNLS-2019</a><br>
+        Efficient Implementation of Second-Order Simultaneous Perturbation Stochastic Approximation [<a href="https://ieeexplore.ieee.org/document/8835094">NNLS-2019</a>]<br>
         Jingyi Zhu, <b>Long Wang</b>, and James C. Spall<br>
         <i>IEEE Transactions on Neural Networks and Learning Systems</i>, vol. 31(8), pp. 3087-3099.
     </li>
@@ -45,7 +45,7 @@ Stochastic Optimization
 </ul>
 
 System Identification
-======
+-----
 <ul>
     <li>
         Identification of Systems with Subsystems [Ongoing]<br>
@@ -57,33 +57,33 @@ System Identification
         <i>Proceedings of the American Control Conference</i>, Denver, CO, 1-3 July 2020, pp. 5213-5218.
     </li>
     <li>
-        Combining Subsystem and Full System Data with Application to Cold-Formed Steel Shear Wall [<a href="https://ieeexplore.ieee.org/document/8431830">ACC-2018</a><br>
+        Combining Subsystem and Full System Data with Application to Cold-Formed Steel Shear Wall [<a href="https://ieeexplore.ieee.org/document/8431830">ACC-2018</a>]<br>
         <b>Long Wang</b>, Guanbo Bian, James C. Spall, and Benjamin W. Schafer<br>
         <i>Proceedings of the American Control Conference</i>, Milwaukee, WI, 27-29 June 2018, pp. 272-277.
     </li>
     <li>
-        Beyond the Identification of Reliability for System with Binary Subsystems [<a href="https://ieeexplore.ieee.org/document/7962947">ACC-2017</a><br>
+        Beyond the Identification of Reliability for System with Binary Subsystems [<a href="https://ieeexplore.ieee.org/document/7962947">ACC-2017</a>]<br>
         <b>Long Wang</b> and James C. Spall<br>
         <i>Proceedings of the American Control Conference</i>, Seattle, WA, 24-26 May 2017, pp. 158-163.
     </li>
 </ul>
 
 Gaussian Process
-======
+-----
 <ul>
     <li>
         A Theoretical Framework of the Scaled Gaussian Stochastic Process in Prediction and Calibration [Submitted, <a href="https://arxiv.org/abs/1807.03829">arXiv</a>]<br>
         Mengyang Gu, Fangzheng Xie, and <b>Long Wang</b>
     </li>
     <li>
-        Scaled Gaussian stochastic process for computer model calibration and prediction [<a href="https://epubs.siam.org/doi/abs/10.1137/17M1159890">JUQ-2018</a><br>
+        Scaled Gaussian stochastic process for computer model calibration and prediction [<a href="https://epubs.siam.org/doi/abs/10.1137/17M1159890">JUQ-2018</a>]<br>
         Mengyang Gu and <b>Long Wang</b><br>
         <i>SIAM/ASA Journal on Uncertainty Quantification</i>, vol. 6(4), pp. 1555-1583.
     </li>
 </ul>
 
 Medical
-========
+-----
 <ul>
     <li>
         Metabolite Biomarkers of Type 2 Diabetes Mellitus and Pre-diabetes: A Systematic Review [<a href="https://bmcendocrdisord.biomedcentral.com/articles/10.1186/s12902-020-00653-x">Endocrine Disorders-2020</a>]<br>
