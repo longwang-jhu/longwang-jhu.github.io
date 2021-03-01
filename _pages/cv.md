@@ -14,19 +14,19 @@ You can also find my CV <a href="">here</a>.
 Education
 ======
 Johns Hopkins University, <i>Baltimore, MD</i>
-<ul style="margin-top: -30px">
+<ul style="margin-top: -10px">
   <li><b>Ph.D.</b> in Applied Mathematics and Statistics, May 2021 (expected)</li>
   <li><b>M.S.E.</b> in Computer Science, May 2020</li>
   <li><b>M.S.E.</b> in Applied Mathematics and Statistics, May 2015 (expected)</li>
 </ul>
 
 Cornell University, <i>Ithaca, NY</i>
-<ul style="margin-top: -30px">
+<ul style="margin-top: -10px">
   <li><b>M.Eng.</b> in Financial Engineering, Operations Research and Information Engineering, Jan 2014</li>
 </ul>
 
 Michigan State University, <i>East Lansing, MI</i>
-<ul style="margin-top: 0">
+<ul style="margin-top: -10px">
   <li><b>B.A.</b> in Finance | Add’l majors in Mathematics, Statistics and Probability</li>
 </ul>
 
@@ -38,8 +38,6 @@ Experience and Projects
   <li>Developed a hierarchical Bayesian model that determines the optimal dosage level based on toxicity and efficacy, and designed an adaptive randomization procedure for implementation in clinical trial</li>
   <li>Built a R Shiny app that allows real-time case collection, data analysis and dosage recommendation</li>
 </ul>
-
-<br>
 
 <b>Johns Hopkins University</b>, <i>Baltimore, MD</i><br>
 <i>Personal Curriculum Planning</i> [<a href="https://github.com/longwangjhu/JayPath">JayPath</a>], Jan - May 2020
