@@ -15,10 +15,10 @@ Johns Hopkins University
 
 About me
 ---
-
-I am a Ph.D. student at Applied Mathematics and Statistic, Johns Hopkins University. With my advisor is <a href="http://www.ams.jhu.edu/~spall/Personal">James C. Spall</a>, my research focuses on
+I am a Ph.D. student at Applied Mathematics and Statistics, Johns Hopkins University. My research advisor is Prof. <a href="http://www.ams.jhu.edu/~spall/Personal">James C. Spall</a>. With my expertise in
 <ul style="margin-top: -15px">
     <li>Stochastic Optimization</li>
     <li>Machine Learning</li>
     <li>Bayesian Statistic</li>
 </ul>
+I am looking for job after my graduation in May 2021.
