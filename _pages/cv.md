@@ -39,6 +39,8 @@ Experience and Projects
   <li>Built a R Shiny app that allows real-time case collection, data analysis and dosage recommendation</li>
 </ul>
 
+<br>
+
 <b>Johns Hopkins University</b>, <i>Baltimore, MD</i><br>
 <i>Personal Curriculum Planning</i> [<a href="https://github.com/longwangjhu/JayPath">JayPath</a>], Jan - May 2020
 <ul>
