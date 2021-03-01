@@ -14,14 +14,14 @@ You can also find my CV <a href="">here</a>.
 Education
 ======
 Johns Hopkins University, <i>Baltimore, MD</i>
-<ul style="margin-top: 0">
-  <li><b>PPh.D.</b> in Applied Mathematics and Statistics, May 2021 (expected)</li>
+<ul style="margin-top: -30px">
+  <li><b>Ph.D.</b> in Applied Mathematics and Statistics, May 2021 (expected)</li>
   <li><b>M.S.E.</b> in Computer Science, May 2020</li>
   <li><b>M.S.E.</b> in Applied Mathematics and Statistics, May 2015 (expected)</li>
 </ul>
 
 Cornell University, <i>Ithaca, NY</i>
-<ul style="margin-top: 0">
+<ul style="margin-top: -30px">
   <li><b>M.Eng.</b> in Financial Engineering, Operations Research and Information Engineering, Jan 2014</li>
 </ul>
 
