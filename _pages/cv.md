@@ -13,15 +13,11 @@ You can also find my CV <a href="">here</a>.
 
 Education
 ======
-<ul style="list-style-type: none">
-  <li>
-    Johns Hopkins University, <i>Baltimore, MD</i>
-    <ul style="padding-left: 0">
-      <li><b>Ph.D.</b> in Applied Mathematics and Statistics, May 2021 (expected)</li>
-      <li><b>M.S.E.</b> in Computer Science, May 2020</li>
-      <li><b>M.S.E.</b> in Applied Mathematics and Statistics, May 2015 (expected)</li>
-    </ul>
-  </li>
+Johns Hopkins University, <i>Baltimore, MD</i>
+<ul style="margin-top: 0">
+  <li><b>PPh.D.</b> in Applied Mathematics and Statistics, May 2021 (expected)</li>
+  <li><b>M.S.E.</b> in Computer Science, May 2020</li>
+  <li><b>M.S.E.</b> in Applied Mathematics and Statistics, May 2015 (expected)</li>
 </ul>
 
 Cornell University, <i>Ithaca, NY</i>
@@ -30,7 +26,7 @@ Cornell University, <i>Ithaca, NY</i>
 </ul>
 
 Michigan State University, <i>East Lansing, MI</i>
-<ul>
+<ul style="margin-top: 0">
   <li><b>B.A.</b> in Finance | Add’l majors in Mathematics, Statistics and Probability</li>
 </ul>
 
