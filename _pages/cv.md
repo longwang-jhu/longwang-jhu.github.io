@@ -16,7 +16,7 @@ Education
 <ul style="list-style-type: none">
   <li>
     Johns Hopkins University, <i>Baltimore, MD</i>
-    <ul>
+    <ul style="padding-left: 0">
       <li><b>Ph.D.</b> in Applied Mathematics and Statistics, May 2021 (expected)</li>
       <li><b>M.S.E.</b> in Computer Science, May 2020</li>
       <li><b>M.S.E.</b> in Applied Mathematics and Statistics, May 2015 (expected)</li>
