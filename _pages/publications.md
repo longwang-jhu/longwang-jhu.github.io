@@ -72,7 +72,7 @@ Gaussian Process
 ---
 <ul>
     <li>
-        A Theoretical Framework of the Scaled Gaussian Stochastic Process in Prediction and Calibration [Submitted, <a href="https://arxiv.org/abs/1807.03829">arXiv</a>]<br>
+        A Theoretical Framework of the Scaled Gaussian Stochastic Process in Prediction and Calibration [Submitted, <a href="https://arxiv.org/abs/1807.03829">arXiv-2020</a>]<br>
         Mengyang Gu, Fangzheng Xie, and <b>Long Wang</b>
     </li>
     <li>
