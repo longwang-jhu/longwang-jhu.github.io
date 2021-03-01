@@ -9,18 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+You can also find my CV <a href="">here</a>.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Johns Hopkins University, *Baltimore, MD*
+  * **Ph.D** in Applied Mathematics and Statistics, May 2021 (expected)
+  * **M.S.E.** in Computer Science, May 2020
+  * **M.S.E.** in Applied Mathematics and Statistics, May 2015
 
-Work experience
+* Corenll University, *Ithaca, NY*
+  * **M.Eng.** in Financial Engineering, Jan 2014
+
+* Michigan State University, *East Lansing, MI*
+  * **B.A.** in Finance
+
+Experience and Projects
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Precision Scientific**, Beijing, China
+  * *Clinical Trail Design*\
+  Developed a hierarchical Bayesian model that determines the optimal dosage level based on toxicity and efficacy, and designed an adaptive randomization procedure for implementation in clinical trial\
+  Built a R Shiny app that allows real-time case collection, data analysis and dosage recommendation
 
 * Fall 2015: Research Assistant
   * Github University
