@@ -9,24 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-You can also find my CV <a href="">here</a>.
+You can also find my CV <a href="https://longwang-jhu.github.io/files/CV - Long Wang.pdf">here</a>.
+
+Skills
+======
+<ul>
+  <li><b>Programming</b>: Python, R, MATLAB, SQL</li>
+  <li><b>Machine Learning</b>: Stochastic Optimization, NNs, Representation Learning, Data Mining</li>
+  <li><b>Prob and Stats</b>: MCMC, Bayesian, Nonparametric, Time Series</li>
+  <li><b>Leadership</b>: Lead Instructor, Student Representative</li>
+</ul>
 
 Education
 ======
 Johns Hopkins University, <i>Baltimore, MD</i>
-<ul style="margin-top: -10px">
+<ul style="margin-top: -15px">
   <li><b>Ph.D.</b> in Applied Mathematics and Statistics, May 2021 (expected)</li>
   <li><b>M.S.E.</b> in Computer Science, May 2020</li>
   <li><b>M.S.E.</b> in Applied Mathematics and Statistics, May 2015 (expected)</li>
 </ul>
 
 Cornell University, <i>Ithaca, NY</i>
-<ul style="margin-top: -10px">
+<ul style="margin-top: -15px">
   <li><b>M.Eng.</b> in Financial Engineering, Operations Research and Information Engineering, Jan 2014</li>
 </ul>
 
 Michigan State University, <i>East Lansing, MI</i>
-<ul style="margin-top: -10px">
+<ul style="margin-top: -15px">
   <li><b>B.A.</b> in Finance | Add’l majors in Mathematics, Statistics and Probability</li>
 </ul>
 
@@ -58,15 +67,6 @@ Experience and Projects
   <li>Developed a methodology to classify option transactions based on the minutely trading data</li>
   <li>Constructed regression models to capture contemporary and predictive effects based on estimated market maker’s position, and proposed trading strategies based on the discovered correlations</li>
 </ul>
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 <!---
 Publications
