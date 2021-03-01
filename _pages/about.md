@@ -21,4 +21,4 @@ I am a Ph.D. student at Applied Mathematics and Statistics, Johns Hopkins Univer
     <li>Machine Learning</li>
     <li>Bayesian Statistic</li>
 </ul>
-I am looking for job after my graduation in May 2021.
+I am looking for a job after my graduation in May 2021.
