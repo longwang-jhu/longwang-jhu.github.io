@@ -13,21 +13,27 @@ You can also find my CV <a href="">here</a>.
 
 Education
 ======
-* Johns Hopkins University, *Baltimore, MD*
-  * **Ph.D** in Applied Mathematics and Statistics, May 2021 (expected)
-  * **M.S.E.** in Computer Science, May 2020
-  * **M.S.E.** in Applied Mathematics and Statistics, May 2015
-
-* Corenll University, *Ithaca, NY*
-  * **M.Eng.** in Financial Engineering, Jan 2014
-
-* Michigan State University, *East Lansing, MI*
-  * **B.A.** in Finance
+<ul>
+  <li>Johns Hopkins University, <i>Baltimore, MD</i></li>
+  <ul>
+    <li><b>Ph.D.</b> in Applied Mathematics and Statistics, May 2021 (expected)</li>
+    <li><b>M.S.E.</b> in Computer Science, May 2020</li>
+    <li><b>M.S.E.</b> in Applied Mathematics and Statistics, May 2015 (expected)</li>
+  </ul>
+  <li>Corenll University, <i>Ithaca, NY</i></li>
+  <ul>
+    <li><b>M.Eng.</b>in Financial Engineering, Operations Research and Information Engineering, Jan 2014</li>
+  </ul>
+  <li>Michigan State University, <i>East Lansing, MI</i></li>
+  <ul>
+    <li><b>B.A.</b> in Finance | Add’l majors in Mathematics, Statistics and Probability</li>
+  </ul>
+</ul>
 
 Experience and Projects
 ======
-* **Precision Scientific**, Beijing, China
-  * *Clinical Trail Design*\
+* *Clinical Trail Design*, **Precision Scientific**, Beijing, China
+  * \
   Developed a hierarchical Bayesian model that determines the optimal dosage level based on toxicity and efficacy, and designed an adaptive randomization procedure for implementation in clinical trial\
   Built a R Shiny app that allows real-time case collection, data analysis and dosage recommendation
 
@@ -45,6 +51,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -62,7 +69,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+--->
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
