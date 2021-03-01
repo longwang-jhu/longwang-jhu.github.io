@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=xk00nf8AAAAJ">my Google Scholar profile</a>.</u>
 
 Stochastic Optimization
------
+---
 <ul>
     <li>
         Complex-step Gradient Estimation [Ongoing]<br>
@@ -69,7 +69,7 @@ System Identification
 </ul>
 
 Gaussian Process
------
+---
 <ul>
     <li>
         A Theoretical Framework of the Scaled Gaussian Stochastic Process in Prediction and Calibration [Submitted, <a href="https://arxiv.org/abs/1807.03829">arXiv</a>]<br>
@@ -83,7 +83,7 @@ Gaussian Process
 </ul>
 
 Medical
------
+---
 <ul>
     <li>
         Metabolite Biomarkers of Type 2 Diabetes Mellitus and Pre-diabetes: A Systematic Review [<a href="https://bmcendocrdisord.biomedcentral.com/articles/10.1186/s12902-020-00653-x">Endocrine Disorders-2020</a>]<br>
