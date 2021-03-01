@@ -25,7 +25,7 @@ Education
 </ul>
 
 Cornell University, <i>Ithaca, NY</i>
-<ul>
+<ul style="margin-top: 0">
   <li><b>M.Eng.</b> in Financial Engineering, Operations Research and Information Engineering, Jan 2014</li>
 </ul>
 
