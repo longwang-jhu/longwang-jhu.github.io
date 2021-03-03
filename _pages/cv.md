@@ -26,7 +26,7 @@ Johns Hopkins University, <i>Baltimore, MD</i>
 <ul style="margin-top: -15px">
   <li><b>Ph.D.</b> in Applied Mathematics and Statistics, May 2021 (expected)</li>
   <li><b>M.S.E.</b> in Computer Science, May 2020</li>
-  <li><b>M.S.E.</b> in Applied Mathematics and Statistics, May 2015 (expected)</li>
+  <li><b>M.S.E.</b> in Applied Mathematics and Statistics, May 2015</li>
 </ul>
 
 Cornell University, <i>Ithaca, NY</i>
