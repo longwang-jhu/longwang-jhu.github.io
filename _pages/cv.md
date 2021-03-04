@@ -14,7 +14,7 @@ You can also find my CV <a href="https://longwang-jhu.github.io/files/CV - Long 
 Skills
 ======
 <ul>
-  <li><b>Programming</b>: Python, R, MATLAB, SQL</li>
+  <li><b>Programming</b>: Python, Java, R, MATLAB, SQL</li>
   <li><b>Machine Learning</b>: Stochastic Optimization, NNs, Representation Learning, Data Mining</li>
   <li><b>Prob and Stats</b>: MCMC, Bayesian, Nonparametric, Time Series</li>
   <li><b>Leadership</b>: Lead Instructor, Student Representative</li>
