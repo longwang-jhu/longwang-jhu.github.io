@@ -23,22 +23,22 @@ Stochastic Optimization
         <b>Long Wang</b>, Fangzheng Xie, and Yanxun Xu
     </li>
     <li>
-        Improved SPSA Using Complex Variables with Applications in Optimal Control Problems [ACC-in press]<br>
+        Improved SPSA Using Complex Variables with Applications in Optimal Control Problems [ACC-in press] [<a href="https://github.com/longwang-jhu/Complex-Step-SPSA">Github</a>]<br>
         <b>Long Wang</b> and James C. Spall<br>
         <i>Proceedings of the American Control Conference</i>, New Orleans, LA, 25-28 May 2021, in press.
     </li>
     <li>
-        Model-Free Optimal Control Using Improved SPSA with Complex Variables [CISS-in press]<br>
+        Model-Free Optimal Control Using Improved SPSA with Complex Variables [CISS-in press] [<a href="https://github.com/longwang-jhu/Complex-Step-SPSA">Github</a>]<br>
         <b>Long Wang</b>, Jingyi Zhu, and James C. Spall<br>
         <i>Proceedings of the Annual Conference on Information Sciences and Systems</i>, Baltimore, MD, 24-26 March 2021, in press.
     </li>
     <li>
-        Efficient Implementation of Second-Order Simultaneous Perturbation Stochastic Approximation [<a href="https://ieeexplore.ieee.org/document/8835094">NNLS-2019</a>]<br>
+        Efficient Implementation of Second-Order Simultaneous Perturbation Stochastic Approximation [<a href="https://ieeexplore.ieee.org/document/8835094">NNLS-2019</a>] [<a href="https://github.com/longwang-jhu/Fast2SPSA">Github</a>]<br>
         Jingyi Zhu, <b>Long Wang</b>, and James C. Spall<br>
         <i>IEEE Transactions on Neural Networks and Learning Systems</i>, vol. 31(8), pp. 3087-3099.
     </li>
     <li>
-        Mixed Simultaneous Perturbation Stochastic Approximation on Loss Function with Noisy Measurement [<a href="https://ieeexplore.ieee.org/document/8430974">ACC-2018</a>]<br>
+        Mixed Simultaneous Perturbation Stochastic Approximation on Loss Function with Noisy Measurement [<a href="https://ieeexplore.ieee.org/document/8430974">ACC-2018</a>] [<a href="https://github.com/longwang-jhu/Mixed-SPSA">Github</a>]<br>
         <b>Long Wang</b>, Jingyi Zhu, and James C. Spall<br>
         <i>Proceedings of the American Control Conference</i>, Milwaukee, WI, 27-29 June 2018, pp. 3774-3779.
     </li>
